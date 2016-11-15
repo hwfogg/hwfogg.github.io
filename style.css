@@ -1,0 +1,168 @@
+body{
+	font-family: 'Montserrat', sans-serif; 
+	
+}
+header{
+	background-color: white;
+	text-align: center;
+	
+}
+img{
+	margin:0px auto;
+	float: center;
+	margin-bottom: 0px;
+}
+#tagline{
+	font-style: ;
+	margin-top:0px;
+	font-size:24px;
+}
+nav {
+	text-align: center;
+	background-color:#ffb84d;
+	padding: 30px;
+	font-size:15px;
+
+
+}
+a {
+
+	color: black;
+
+}
+a:hover {
+	background-color:  white;
+}
+.nav {
+	margin: 15px;
+	text-decoration: none;
+
+
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-decoration: underline;
+	text-align: center;
+}
+h4{
+	text-align: center;
+}
+h5{
+	text-align: left;
+	font-style: bold;
+	font-size:17px;
+	padding:0px;
+}
+section{
+	background-color: white;
+	margin:50px;
+	text-align: center;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+.li1{
+	padding-bottom:20px;
+	text-align: left;
+	padding-left: 0px
+}
+ul{
+	text-align: left;
+	padding-left: 20px;
+
+}
+li{
+	padding:5px;
+	line-height: 30px;
+	}
+.life{
+	font-style: italic;
+	padding-left: 5px;
+}
+#life{
+	text-decoration: underline;
+	margin-top:px;
+}
+#ourstory{
+	text-align: justify;
+	padding-left:50px;
+	padding-right:50px;
+}
+#aboutus{
+	text-align: left;
+	padding-left: 50px;
+}
+
+ #contactus {
+ 	text-align: center;
+ }
+ #address {
+	line-height: 1px;
+}
+#kelly{
+	float:left;
+	width:50%;
+	position:static;
+	background-color: white; 
+	}
+#hannah{
+	float:right;
+	display: inline;
+	width:50%;
+	position: relative;
+	background-color: white
+}
+footer{
+	background-color:#ffb84d;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+#aadm{
+	width:8%;
+	height:8%;
+	float:center;
+}
+aside{
+	text-align: center;
+	font-size:16px;
+	padding-bottom: 20px;
+	;
+}
+
+#active-page{
+		background-color: white;
+
+}
+#marginchange{
+	margin-left:100px;
+	margin-right:100px;
+}
+
+#justify{
+	text-align: justify;
+}
+#mission{
+	font-size:20px;
+	padding-left: 10px;
+	padding-right:10px;
+	text-align: justify;
+}
+.members{
+	font-size: 12px;
+}
+.box{ 
+	padding:0px;
+	margin: 0px; }
+
+article{
+	text-align: center;
+	padding-top: 125px;
+}
+
+.dumb{
+	line-height: 5px;
+
+}
